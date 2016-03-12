@@ -1,13 +1,12 @@
 react-hot-boilerplate
 =====================
 
+The minimal dev environment to enable live-editing React components.
 
 ### Scribble Tone Additions
 - CSS/SASS
 - Directory Structure
 
-
-The minimal dev environment to enable live-editing React components.
 
 ### Usage
 
